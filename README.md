@@ -15,4 +15,5 @@ Hiện tại game bị crash ui khi mở phần thống kê, đây là lỗi c�
 
 Game Version: 1.0.11f1 (109.24605) [5256.2000]
 
-- Nếu mọi người gặp bất kỳ vấn đề nào về bản dịch, xin hãy tạo Isses, nếu được thì kèm theo nội dung file log khi bị crash càng tốt (`%USERPROFILE%\AppData\LocalLow\Colossal Order\Cities Skylines II\Logs\UI.log`)
+- Nếu mọi người gặp bất kỳ vấn đề nào về bản dịch, xin hãy tạo Issues, nếu được thì kèm theo nội dung file log khi bị crash càng tốt (`%USERPROFILE%\AppData\LocalLow\Colossal Order\Cities Skylines II\Logs\UI.log`)
+- Nếu update bản dịch mà bị chuyển về EN thì hãy vào cài đặt để chọn lại tiếng Việt
