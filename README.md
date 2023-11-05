@@ -3,7 +3,9 @@
 ## Cách cài đặt việt hóa
 
 1. Tải file `ru-RU.loc` về máy
-2. Chép đè file `ru-RU.loc` vào thư mục game `Cities Skylines II\Cities2_Data\StreamingAssets\Data~`
+2. Chép đè file `ru-RU.loc` vào thư mục game
+    - Steam: `Cities Skylines II\Cities2_Data\StreamingAssets\Data~`
+    - XBOX PC: `XboxGames\Cities- Skylines II - PC Edition\Content\Cities2_Data\StreamingAssets\Data~`
 3. Vào game chọn Options -> Interface -> Language -> chọn `Tiếng Việt`
 
 ## Cách sửa lỗi bị Crash UI
